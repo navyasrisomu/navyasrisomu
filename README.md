@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @navyasrisomu
-- 👀 I’m interested in doing problem solving
+- 👋 Hi, I’m [@navyasrisomu](url)
+- 👀 I’m interested in doing **Problem Solving**
 - 🌱 I’m currently learning **Django**
 - 💬 Ask me about **Web Development**
 - ⚡ Fun fact **I am a keyboard player**
