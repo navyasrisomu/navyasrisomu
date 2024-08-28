@@ -2,8 +2,8 @@
 - 👀 I’m interested in doing **Problem Solving**
 - 🌱 I’m currently learning **Django**
 - 💬 Ask me about **Web Development**
-- ⚡ Fun fact **I am a keyboard player**
 - 🤝 I’m looking for help with **Blockchain**
+- ⚡ Fun fact **I am a keyboard player**
 - 📫 How to reach me ...Reach me through my mail ID:[navyasrisomu2004@gmail.com](url)
 
 <!---
